@@ -426,7 +426,7 @@
       <div class="row mb-5">
         <div class="col-md">
           <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Sobre Saccservices</h2>
+            <h2 class="ftco-heading-2">Sobre SaccsSrvices</h2>
             <ul class="list-unstyled">
               <li><a href="#" class="py-2 d-block">Sobre Nosotros</a></li>
               <li><a href="#" class="py-2 d-block">Programadores</a></li>
