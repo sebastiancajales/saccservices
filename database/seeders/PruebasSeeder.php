@@ -20,7 +20,7 @@ class PruebasSeeder extends Seeder
 
             DB::table('pruebas')->insert([
 
-                    'dato1'=>Str::random(10),
+                    'dato1'=>Str::random(20),
                     'dato2'=>Str::random(10),
                     'dato3'=>Str::random(10),
                     'dato4'=>Str::random(10),
